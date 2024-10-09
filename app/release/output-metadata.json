@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "ir.hmb72.space",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "1.0",
+      "outputFile": "ir.hmb72.space-v1(1.0)-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

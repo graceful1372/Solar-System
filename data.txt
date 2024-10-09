@@ -1,0 +1,5 @@
+key alias : app space key
+
+space@g1r2a3c4
+
+برای هر دو مورد apk و aab 
